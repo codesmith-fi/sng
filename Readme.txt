@@ -71,6 +71,6 @@ Precompiled windows binaries exist in release folders. VC2005 project included f
 
 Thanks for reading!
 
-Contact: erno.pakarinen@codesmith.fi
+Contact: erno@codesmith.fi
 
 
