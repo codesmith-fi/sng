@@ -13,6 +13,8 @@ The animation is done by moving each object towards the observer (Z = 0) and res
 
 GLUT is used to initialize the rendering environment (window). This was implemented as a C++ sample and was also my very first OpenGL exercise.
 
+Developed under Windows and Visual Studio, will not probably work on e.g. Linux.
+
 -------------------------------------------------------------------------------
 
 The engine is designed to have a class for each actor in the 3D engine and the design should be pretty straightforward and easy to understand. In the current version all textures are rendered using a simple observer call to the materials own observer interface.  This might change later when more complex textures are implemented.
@@ -71,6 +73,7 @@ Precompiled windows binaries exist in release folders. VC2005 project included f
 
 Thanks for reading!
 
-Contact: erno@codesmith.fi
+Contact: erpakari@gmail.com
+
 
 
